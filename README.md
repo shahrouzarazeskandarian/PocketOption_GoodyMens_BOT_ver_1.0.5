@@ -63,3 +63,11 @@ Use the software responsibly.
 **Version:** 1.0
 
 **Price:** 100 USDT
+
+---
+
+## 👨‍💻 Developer & Programmer
+
+Developed by: **Your Full Name**
+
+10 years of experience in trading strategy development and automated trading systems.
