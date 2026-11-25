@@ -68,6 +68,6 @@ Use the software responsibly.
 
 ## 👨‍💻 Developer & Programmer
 
-Developed by: **Your Full Name**
+Developed by: **Shahrouz Eskandarian**       @shahrouz_eskandarian
 
 10 years of experience in trading strategy development and automated trading systems.
